@@ -1,6 +1,8 @@
 name: tg-notify
 
 on: [push, pull_request]
+# What this workflow does is that it sends the user a notification via Telegram when the repo has a new push commit or pull request. 
+
 jobs:
   build:
     runs-on: ubuntu-latest
