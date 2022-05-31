@@ -1,5 +1,5 @@
 Getting updates from GitHub via Telegram Bot
-------------------------------------------------
+----------------------------------------------
 An example repository to get a Telegram notification when there is a commit/pull request with *Github Actions*.
 
 **Prerequisites:**
@@ -96,5 +96,6 @@ jobs:
 
 ![image](https://user-images.githubusercontent.com/93770122/171035850-0e679887-2b93-4409-9e63-41d329335902.png)
 
+------------------------------------------------
 
 Source: https://cyaninfinite.com/getting-updates-from-github-via-telegram-bot/
