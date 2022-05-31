@@ -1,6 +1,6 @@
 Getting updates from GitHub via Telegram Bot
 ----------------------------------------------
-This is an example repository to get a Telegram notification when there is a commit/pull request with *Github Actions*.
+This is an example on getting a Telegram notification when there is a commit/pull request with *Github Actions*.
 
 **Prerequisites:**
 - Github Account
