@@ -69,7 +69,8 @@ We’ll be using the secrets variable to store our Telegram bot token and our ch
 **_Step 5: Setup the Workflow_**
 
 - Click on the "Actions" tab below the title of the new repository, and then click on the "set up a workflow yourself" link.
-![image](https://user-images.githubusercontent.com/93770122/171034801-d81be5b8-f2ec-4e44-b39b-3be232dbd510.png)
+![image](https://user-images.githubusercontent.com/93770122/171080042-abb8567c-97e4-4979-95ed-e790422d2508.png)
+
 
 - A default template would be initialized by default, and we would want to change the setup accordingly. Update the name from "main.yml" to "tg-notify.yml", and replace the code with the one as shown below. (We’ll be using appleboy/telegram-action in this exercise.) 
 
